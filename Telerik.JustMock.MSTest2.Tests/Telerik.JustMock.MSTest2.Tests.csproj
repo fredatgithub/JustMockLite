@@ -7,8 +7,8 @@
     <ProjectGuid>{B3F68A0C-4500-4334-B8C8-A9ABC193BDDA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Telerik.JustMock.MS2.Tests</RootNamespace>
-    <AssemblyName>Telerik.JustMock.MS2.Tests</AssemblyName>
+    <RootNamespace>Telerik.JustMock.MSTest2.Tests</RootNamespace>
+    <AssemblyName>Telerik.JustMock.MSTest2.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

@@ -55,6 +55,6 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: InternalsVisibleTo("Telerik.JustMock.Nunit.Tests")]
 [assembly: InternalsVisibleTo("Telerik.JustMock.Tests")]
-[assembly: InternalsVisibleTo("Telerik.JustMock.MS2.Tests")]
+[assembly: InternalsVisibleTo("Telerik.JustMock.MSTest2.Tests")]
 [assembly: InternalsVisibleTo(Telerik.JustMock.DemoLib.JustMock.FullyQualifiedAssemblyName)]
 [assembly: InternalsVisibleTo("Telerik.JustMock.Tests.Elevated")]
